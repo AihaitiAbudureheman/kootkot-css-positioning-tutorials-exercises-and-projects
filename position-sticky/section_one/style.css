@@ -1,0 +1,14 @@
+
+.sticky-top {
+    background-color: darkorange;
+    color: #fff;
+    position: sticky;
+    top:0px;
+}
+
+.sticky-bottom {
+    background-color:deepskyblue;
+    color: #fff;
+    position: sticky;
+    bottom:0px;
+}

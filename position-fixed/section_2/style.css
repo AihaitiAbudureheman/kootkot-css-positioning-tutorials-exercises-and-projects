@@ -1,0 +1,12 @@
+.fixed {
+  width:96px;
+  height: 96px;
+  font-size: 96px;
+  font-weight: bolder;
+  text-align: center;
+  border: none;
+  line-height: 96px;
+  background-color: #ffdf2b;
+  position: fixed;
+  left:100px;
+}

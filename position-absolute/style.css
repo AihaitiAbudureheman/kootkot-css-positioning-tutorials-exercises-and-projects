@@ -1,0 +1,77 @@
+body {
+  text-align: right;
+  border: 6px solid #000;
+  background-color: #e0e0e0;
+  margin: 48px;
+}
+p {
+  font-size: x-large;
+  font-weight: 900;
+}
+
+/* ---------------Box 1 -----------------*/
+.box1 {
+  width: 800px;
+  height: 700px;
+  border: 6px solid #f44336;
+  background-color: #ffcdd2;
+  margin: 48px;
+  text-align: right;
+  margin: 48px;
+}
+
+/* ---------------Box 2 -----------------*/
+.box2 {
+  width: 500px;
+  height: 500px;
+  border: 6px solid #2196f3;
+  background-color: #bbdefb;
+  text-align: right;
+  margin: 50px auto auto auto;
+}
+
+/* ---------------Box 3 -----------------*/
+.box3 {
+  width: 300px;
+  height: 300px;
+  border: 6px solid #8bc34a;
+  background-color: #dcedc8;
+  text-align: right;
+  margin: 100px auto auto auto;
+}
+
+/* ---------------Box 4 -----------------*/
+.box4 {
+  width: 256px;
+  height: 48px;
+  line-height: 48px;
+  color: #fff;
+  text-align: center;
+  font-weight: 900;
+  font-size: large;
+  background-color: #e91e63;
+}
+
+/* ---------------Box 5 -----------------*/
+.box5 {
+  width: 256px;
+  height: 48px;
+  line-height: 48px;
+  color: #fff;
+  text-align: center;
+  font-weight: 900;
+  font-size: large;
+  background-color: #ff9800;
+}
+
+/* ---------------Box 6 -----------------*/
+.box6 {
+  width: 256px;
+  height: 48px;
+  line-height: 48px;
+  color: #fff;
+  text-align: center;
+  font-weight: 900;
+  font-size: large;
+  background-color: #9c27b0;
+}
